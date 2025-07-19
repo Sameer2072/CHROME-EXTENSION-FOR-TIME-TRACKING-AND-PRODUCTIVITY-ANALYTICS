@@ -57,3 +57,6 @@ The Time Tracker project serves as a great example of how small-scale Chrome Ext
 
 As a version 1.0 release, it lays the foundation for potential future updates such as dark mode support, better integration with calendar tools, and detailed reporting features. Ultimately, Time Tracker demonstrates how simplicity in design and functionality can deliver effective solutions to everyday productivity challenges.
 
+OUTPUT-
+
+![Image](https://github.com/user-attachments/assets/db45c382-a908-4705-8bc7-887ee54ea703)
